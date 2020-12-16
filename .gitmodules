@@ -4,3 +4,9 @@
 [submodule "247-decoding"]
 	path = 247-decoding
 	url = https://github.com/hvgazula/247-decoding
+[submodule "podcast-decoding"]
+	path = podcast-decoding
+	url = https://github.com/zkokaja/podcast-decoding.git
+[submodule "podcast-encoding"]
+	path = podcast-encoding
+	url = https://github.com/hvgazula/podcast-encoding.git
