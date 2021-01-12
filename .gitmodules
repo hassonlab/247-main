@@ -1,6 +1,6 @@
 [submodule "247-encoding"]
 	path = 247-encoding
-	url = https://github.com/hvgazula/247-encoding.git
+	url = git@github.com:hassonlab/247-encoding.git
 [submodule "247-decoding"]
 	path = 247-decoding
 	url = git@github.com:hassonlab/247-decoding.git
