@@ -1,2 +1,1 @@
-# 247-main
-This is the top-level repository for all 247 related sub-projects
+Go to the [wiki](https://github.com/hassonlab/247-main/wiki) for all documentation.
