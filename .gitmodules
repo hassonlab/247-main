@@ -2,11 +2,14 @@
 	path = 247-encoding
 	url = git@github.com:hassonlab/247-encoding.git
         branch = main
+        update = merge
 [submodule "247-decoding"]
 	path = 247-decoding
 	url = git@github.com:hassonlab/247-decoding.git
         branch = main
+        update = merge
 [submodule "247-pickling"]
 	path = 247-pickling
 	url = git@github.com:hassonlab/247-pickling.git
         branch = main
+        update = merge
